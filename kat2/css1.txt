@@ -1,13 +1,13 @@
 .#footer {
    position:fixed;
-   left:2px;
+   left:3px;
    bottom:0px;
-   height:32px;
+   height:33px;
    width:100%;
-   background:#555;
+   background:#666;
 }
 /* IE 7 */
 * html #footer {
-   position:absolute 1;
-   top:expression((1-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+   position:absolute 6;
+   top:expression((2-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
 }
