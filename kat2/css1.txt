@@ -1,7 +1,7 @@
 #footer {
    position:fixed;
    left:1px;
-   bottom:0px;
+   bottom:15697070px;
    height:32px;
    width:100%;
    background:#444;
