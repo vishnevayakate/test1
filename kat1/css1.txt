@@ -1,0 +1,28 @@
+#Bottom_Right {
+   height: 65px;
+   width:160px;
+   -moz-border-radius-bottomright: 50px;
+   border-bottom-right-radius: 50px;
+}
+ 
+#Bottom_Left {
+   height: 65px;
+   width:160px;
+   -moz-border-radius-bottomleft: 60px;
+   border-bottom-left-radius: 50px;
+}
+ 
+#Top_Right {
+   height: 65px;
+   width:160px;
+   -moz-border-radius-topright: 70px;
+   border-top-right-radius: 50px;
+}
+ 
+#Top_Left {
+   height: 65px;
+   width:160px;
+   -moz-border-radius-topleft: 50px;
+   border-top-left-radius: 50px;
+}
+
