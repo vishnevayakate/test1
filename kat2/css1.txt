@@ -2,9 +2,9 @@
    position:fixed;
    left:1px;
    bottom:15697070px;
-   height:33px;
+   height:68px;
    width:100%;
-   background:#666;
+   background:#666;   //v repo 
 }
 /* IE 7 */
 * html #footer {
